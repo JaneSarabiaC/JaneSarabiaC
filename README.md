@@ -12,7 +12,7 @@ Skilled in optimizing processes, ma budgets, and analyzing data to generate valu
 - [Linkedin](www.linkedin.com/in/janethsarabiac)
 - [email](janeth.sarabiac@gmail.com)
 
-- 💻💡 Some Technologies I use:
+💻💡 Some Technologies I use:
   
 Python / SQL / Dash / Pandas / Seaborn / Matplotlib / Plotly / Tableau
 
