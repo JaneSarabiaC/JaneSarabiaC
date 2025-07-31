@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, this is Janeth Sarabia 👋
 
 <!--
 **JaneSarabiaC/JaneSarabiaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
